@@ -3,7 +3,7 @@ cask "seai" do
 
   on_arm do
     url "https://github.com/rajendra-jena/seai-release/releases/download/v#{version}/se.AI.By.Infosys-darwin-arm64-#{version}.zip"
-    sha256 "9c9b577ac96ae59bb10ce00a861276f6849d119cce835af6428280625b479401"
+    sha256 "8E978FC035DA6DF55C7792A5DC321B94108C97E6C911D8A53166B7DE2277B36A"
   end
 
   on_intel do
